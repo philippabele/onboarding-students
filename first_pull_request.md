@@ -2,7 +2,7 @@
 
 # # Tasks
 
-- read other contribution guides like [this on](https://github.com/philippabele/nursing-home-volunteer/blob/main/CONTRIBUTING.md#getting-started)
+- read other contribution guides like [this one](https://github.com/philippabele/nursing-home-volunteer/blob/main/CONTRIBUTING.md#getting-started)
 
 - make yourself familiar with the Git-Workflow by trying it out
 
@@ -18,11 +18,11 @@
 
 # # Learnings
 
-- Working with Git and GitHUB
+- Working with Git and GitHub
 
 - Setting up a project
 
-- Practice the workflow to interact with other developers on GitHUB
+- Practice the workflow to interact with other developers on GitHub
 
 # # Footnotes
 
