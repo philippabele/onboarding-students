@@ -1,30 +1,30 @@
 # Starting Note: Update Readme
 
-# # Tasks
+## Tasks
 
-- read other contribution guides like [this on](https://github.com/philippabele/nursing-home-volunteer/blob/main/CONTRIBUTING.md#getting-started)
+- Read other contribution guides like [this one](https://github.com/philippabele/nursing-home-volunteer/blob/main/CONTRIBUTING.md#getting-started)
 
-- make yourself familiar with the Git-Workflow by trying it out
+- Make yourself familiar with the Git-Workflow by trying it out
 
-- fork this project
+- Fork this project
  
-- create a new branch
+- Create a new branch
 
-- update the readme file of this project by adding a section about how to contribute
+- Update the readme file of this project by adding a section about how to contribute
 
-- create a PR and link this issue
+- Create a PR and link this issue
 
-- send the PR to philippabele
+- Send the PR to philippabele
 
-# # Learnings
+## Learnings
 
-- Working with Git and GitHUB
+- Working with Git and GitHub
 
 - Setting up a project
 
-- Practice the workflow to interact with other developers on GitHUB
+- Practice the workflow to interact with other developers on GitHub
 
-# # Footnotes
+## Footnotes
 
 If there are any questions, please use the comment function of this issue.
 
