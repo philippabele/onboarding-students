@@ -1,6 +1,6 @@
 # Starting Note: Update Readme
 
-# # Tasks
+## Tasks
 
 - read other contribution guides like [this one](https://github.com/philippabele/nursing-home-volunteer/blob/main/CONTRIBUTING.md#getting-started)
 
@@ -16,7 +16,7 @@
 
 - send the PR to philippabele
 
-# # Learnings
+## Learnings
 
 - Working with Git and GitHub
 
@@ -24,7 +24,7 @@
 
 - Practice the workflow to interact with other developers on GitHub
 
-# # Footnotes
+## Footnotes
 
 If there are any questions, please use the comment function of this issue.
 
