@@ -1,1 +1,1 @@
-# onboarding-students
+# Contribution guide
