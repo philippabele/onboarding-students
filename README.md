@@ -26,4 +26,4 @@ Once you solved the issue and verified that contribution guidelines of the origi
 After your changes on the issue are finished, create a PR ([Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)). 
 In the PR make sure to link the respective issue and send the request to a contributor of the original repository with sufficient permission to accept your PR. After your PR is review you might be required to make additional changes in order for your changes to be applied. Once your changes meet the requirements of the project, they will be merged into the original repository.
 
-### Your changes have to now been contributed to the project!
+### Your changes have now been contributed to the project!
