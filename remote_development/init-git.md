@@ -45,5 +45,19 @@ see https://docs.github.com/en/authentication/managing-commit-signature-verifica
 
 see https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account
 
+## attach VS Code to your container
 
+Attaching VS Code to a running container is very convenient with the following extensions
+
+- Docker
+
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+
+- Kubernetes
+
+https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools
+
+Just use RMD (Right Mouse Button) and go
+
+![Attaching](https://code.visualstudio.com/assets/docs/devcontainers/attach-container/k8s-attach.png)
 

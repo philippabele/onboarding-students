@@ -1,6 +1,6 @@
-# Setting up Git within a Docker Container
+# Setting up Quarkus within a Docker Container
 
-search for REPLACE-ME and enter the needed information
+Set up Git. Please see other instructions on how to perform this.
 
 run this steps as root from a docker container, step by step
 
