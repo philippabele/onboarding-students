@@ -18,7 +18,7 @@ URL: Where do I get further information?
 - [ ] Software Architecture in Java: Design & Development
 [educative](https://www.educative.io/courses/software-architecture-in-java-design-development)
 - [ ] CQRS
-- [ ] SOLID Principles https://www.udemy.com/course/solid-design/
+- [ ] SOLID Principles https://www.udemy.com/course/solid-design/ (It looks like, there is a better Java alternative? The Java Design Patterns Course)
 
 # Databases
 
@@ -51,5 +51,7 @@ URL: Where do I get further information?
 
 # Java
 
-- [ ] Java Masterclass https://www.udemy.com/course/java-the-complete-java-developer-course/
+- [x] Java Masterclass https://www.udemy.com/course/java-the-complete-java-developer-course/
+- [ ] The Java Design Patterns Course https://learnprogramming.academy/courses/the-java-design-patterns-course/
+- [ ] Advanced Algorithms in Java https://learnprogramming.academy/courses/advanced-algorithms-in-java/
 - [ ] Quarkus https://www.udemy.com/course/quarkus-backend-development-java/
