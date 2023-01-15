@@ -23,7 +23,8 @@ URL: Where do I get further information?
 # Databases
 
 - [x] MySQL Operator for Kubernetes https://go.oracle.com/MySQLGermanWebinars
-- [ ] PostgreSQL Operator https://kube.academy/courses/introduction-to-operators
+- [x] PostgreSQL Operator https://kube.academy/courses/introduction-to-operators
+- [x] CockroachDB Distributed SQL Database https://university.cockroachlabs.com/tracks
 
 - [ ] Redis [linkedin.com](https://www.linkedin.com/learning/learning-redis?trk=course_title&upsellOrderOrigin=default_guest_learning)
 - [ ] RocksDB
