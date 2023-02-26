@@ -25,13 +25,12 @@ URL: Where do I get further information?
 - [x] MySQL Operator for Kubernetes https://go.oracle.com/MySQLGermanWebinars
 - [x] PostgreSQL Operator https://kube.academy/courses/introduction-to-operators
 - [x] CockroachDB Distributed SQL Database https://university.cockroachlabs.com/tracks
+- [x] MongoDB https://learn.mongodb.com/
 
 - [ ] Redis [linkedin.com](https://www.linkedin.com/learning/learning-redis?trk=course_title&upsellOrderOrigin=default_guest_learning)
 - [ ] RocksDB
 
 - [ ] InfluxDB [linkedin.com](https://www.linkedin.com/learning/introduction-to-influxdb)
-
-- [ ] MongoDB [linkedin.com](https://de.linkedin.com/learning/mongodb-grundkurs?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning)
 
 - [ ] Cassandra [linkedin.com](https://de.linkedin.com/learning/apache-cassandra-grundkurs?trk=course_title&upsellOrderOrigin=default_guest_learning)
 
